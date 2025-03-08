@@ -8,8 +8,8 @@ NIM: 1122140079
 This Flutter application demonstrates camera functionality and image filtering capabilities.
 
 ## Screenshots
-<img src="https://github.com/Mifta24/tugas-kamera-flutter/blob/main/assets/images/take.jpg" width="300px" height="300px" >
-<img src="https://github.com/Mifta24/tugas-kamera-flutter/blob/main/assets/images/filter.jpg" width="300px" height="300px" >
+<img src="https://github.com/Mifta24/tugas-kamera-flutter/blob/main/assets/images/take.jpg" width="500px"  >
+<img src="https://github.com/Mifta24/tugas-kamera-flutter/blob/main/assets/images/filter.jpg" width="500px" " >
 
 ## Features
 - Camera capture
