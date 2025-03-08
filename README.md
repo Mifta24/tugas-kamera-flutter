@@ -1,17 +1,3 @@
-#Tugas Kamera dan filter kamera
-##Miftahudin Aldi Saputra - 1122140079
-
-<!-- image tugas -->
-
-Jelaskan maksud void async pada praktikum 1?
-
-
-
-
-
-
-
-
 # Camera and Filter Application
 
 ## Author
@@ -20,6 +6,10 @@ NIM: 1122140079
 
 ## Project Overview
 This Flutter application demonstrates camera functionality and image filtering capabilities.
+
+## Screenshots
+<img src="https://github.com/Mifta24/tugas-kamera-flutter/blob/main/assets/images/take.jpg" width="auto" height="auto" >
+<img src="https://github.com/Mifta24/tugas-kamera-flutter/blob/main/assets/images/filter.jpg" width="auto" height="auto" >
 
 ## Features
 - Camera capture
@@ -56,10 +46,6 @@ flutter pub get
 ```bash
 flutter run
 ```
-
-## Screenshots
-<img src="https://github.com/" width="auto" height="auto" >
-<img src="https://github.com/" width="auto" height="auto" >
 
 ## Dependencies
 - camera: ^0.11.1
