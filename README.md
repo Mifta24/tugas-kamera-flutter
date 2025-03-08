@@ -34,7 +34,7 @@ Maksud void async pada praktikum 1 adalah untuk memastikan bahwa semua operasi a
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/Mifta24/tugas-kamera-flutter.git
 ```
 
 2. Install dependencies
