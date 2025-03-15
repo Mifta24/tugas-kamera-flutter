@@ -8,8 +8,12 @@ NIM: 1122140079
 This Flutter application demonstrates camera functionality and image filtering capabilities.
 
 ## Screenshots
-<img src="https://github.com/Mifta24/tugas-kamera-flutter/blob/main/assets/images/take.jpg" width="500px"  >
-<img src="https://github.com/Mifta24/tugas-kamera-flutter/blob/main/assets/images/filter.jpg" width="500px" " >
+Hasil penggabungan dari praktikum 1 dan 2
+praktikum 1 aplikasi hanya open kamera lalu ketika di take picture tampil foto.
+praktikum 2 aplikasi menampilkan filter dari foto.
+
+<img src="https://github.com/Mifta24/tugas-kamera-flutter/blob/main/assets/images/take.jpg" width="400px"  >
+<img src="https://github.com/Mifta24/tugas-kamera-flutter/blob/main/assets/images/filter.jpg" width="400px" " >
 
 ## Features
 - Camera capture
